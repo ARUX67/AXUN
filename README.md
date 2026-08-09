@@ -14,7 +14,7 @@ I'm always interested in:
 💻 Open-source projects
 🤝 Collaboration
 🚀 Startup & project ideas
-🤖 AI projects
+🤖 AI projects 
 🌐 Web & App development
 🎨 UI/UX experiments
 💡 New technology
